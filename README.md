@@ -103,5 +103,9 @@ MIT
 
 ---
 
-## Made by
-[Instatus.com](https://instatus.com) – Get a quick & beautiful status page ([@alisalahio](https://twitter.com/alisalahio))
+## Made by [Instatus](https://instatus.com)
+
+Instatus helps you:
+1. Monitor your services
+2. Fix incidents with your team
+3. Share your status with customers
